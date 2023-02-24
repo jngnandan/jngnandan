@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a self-taught passionate FrontEnd developer from London
+
 - 🔭 I’m currently working on JavaScript, React & React Native, Node.js
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Opensource
