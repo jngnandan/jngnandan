@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-
-**jngnandan/jngnandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React & React Native
-- 🌱 I’m currently learning Web applications
+- 🔭 I’m currently working on JavaScript, React & React Native, Node.js
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Opensource
 - 🤔 I’m looking for help with Backend Infrastructure
 - 💬 Ask me about UI Development
