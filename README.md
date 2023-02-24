@@ -27,7 +27,7 @@ I'm a self-taught passionate FrontEnd developer from London
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,firebase,git," />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,python,firebase,git," />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
